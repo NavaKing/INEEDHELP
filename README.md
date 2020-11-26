@@ -1,9 +1,26 @@
 # INEEDHELP
 IT Help Desk Ticket Tracker
+ 
+# I Need Help! Technical Ticket Tracker
+The "I Need Help!" techincal ticket tracker application is designed with the user in mind. Users are able to create a ticket with a simple form, rate the urgency of their issue, update their tickets, and close out completed tickets. Users are also able to sort their tickets in alphabetical order and search for tickets via first/ last name, email, urgency, or keyword.
 
-# Environments you'll need to run Program :
- Java, MySQL, and Reactjs.
-
+# Technologies Used:
+The following sections will detail the technologies used to build this application. The Back-end of our application was build using Java and Springtool v4. Our Front-end was developed with: React.js, Node.js, and Bootstrap. Finally, the database we have used is SQL.
+ 
+# The Back-end: Java with Springboot v4
+Backend development was accomplished using Java and Springboot Tool v4. Because Java is object-oriented, it allows developers to create modular programs and reusable code. This streamlines the coding process and makes updating, expanding, and debugging much simpler and easier. Java is also platform-independent so anyone on any machine can write code with it.
+ 
+# The Front-End: React.js
+React.js has multiple advantages for developing applications such as ours. React is focused and easy to learn, it comes with a helpful set of developer tools, and it guarantees stable code just to name a few. We really enjoyed digging into React and discovering how it could help make our application the best it could be.
+ 
+# The Front-End: Bootstrap
+Do not let the lightweight nature of the Bootstrap framework fool you. It is fully customize-able, has responsive structures and styles, and fewer Cross browser bugs than other similar frameworks. Bootstrap also has the advantage of being able to use both CSS and Javascript which gives the developer a wider range of options when designing the UI.
+ 
+# The Front-End: Node.js
+Node.js helps in the execution of JavaScript code outside of a browser. It is an open-source, JavaScript run-time environment that offers many benefits for web app development. Node.js is scale-able both vertically and horizontally. It also allows developers to add extra resources to a single node during vertical scaling of an application. It is regarded as a full-stack JavaScript because it can serve both the client and server-side applications. This saves valuable time and money, especially for start-ups and new developers like us.
+ 
+# The Database: SQL
+We chose to use SQL as our database because it has a standardized language, portability, and multiple data views that make it ideal for an application like ours. Learning how to use SQL is relatively easy, no previous coding knowledge is required, so getting your project up and running requires fewer resources and less time.
 
 This project was bootstrapped with Create React App.
 
