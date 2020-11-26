@@ -1,8 +1,8 @@
 # INEEDHELP
 IT Help Desk Ticket Tracker
 
-Environments you'll need to run Program :
-Java, MySQL, and Reactjs.
+# Environments you'll need to run Program :
+# Java, MySQL, and Reactjs.
 
 
 This project was bootstrapped with Create React App.
